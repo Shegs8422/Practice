@@ -1,0 +1,254 @@
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+.b {
+    position: relative;
+}
+.b1 {
+    align-self: stretch;
+    position: relative;
+    opacity: 0.7;
+}
+.january {
+    align-self: stretch;
+    position: relative;
+    opacity: 0.4;
+}
+.group {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    font-size: 10px;
+}
+.parent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 7px;
+}
+.image-1-icon {
+    width: 59px;
+    position: relative;
+    height: 33px;
+    object-fit: cover;
+}
+.b2 {
+    position: absolute;
+    top: 4px;
+    left: 0px;
+    opacity: 0.8;
+}
+.c {
+    position: absolute;
+    top: 4px;
+    left: 28px;
+    opacity: 0.8;
+}
+.o {
+    position: absolute;
+    top: 0px;
+    left: 23px;
+    font-size: 10px;
+    opacity: 0.8;
+}
+.container {
+    width: 43px;
+    position: relative;
+    height: 28px;
+    margin-left: -11px;
+}
+.image-1-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    font-size: 20px;
+}
+.frame-parent {
+    position: absolute;
+    top: 36px;
+    left: calc(50% - 163px);
+    width: 326px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    text-align: left;
+    font-size: 22px;
+}
+.iphone-13-14-1-child {
+    position: absolute;
+    top: 215px;
+    left: 226px;
+    border-radius: 16px;
+    background: linear-gradient(180deg, #ffc0cb, #8c626a 69.5%, #6f4a50 87.5%);
+    width: 125px;
+    height: 85px;
+}
+.iphone-13-14-1-item {
+    position: absolute;
+    top: 479px;
+    left: 226px;
+    box-shadow: 0px 3px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 16px;
+    background-color: #cdcdcd;
+    width: 125px;
+    height: 80px;
+}
+.image-icon {
+    position: absolute;
+    top: 572px;
+    left: 226px;
+    border-radius: 16px;
+    width: 125px;
+    height: 80px;
+    object-fit: cover;
+}
+
+.because-youre-special {
+    position: absolute;
+    top: 245px;
+    left: 233px;
+    font-size: 14px;
+    font-family: 'Bad Script';
+    display: inline-block;
+    width: 111px;
+}
+.image-icon1 {
+    position: absolute;
+    top: 309px;
+    left: 226px;
+    border-radius: 16px;
+    width: 125px;
+    height: 85px;
+    object-fit: cover;
+}
+.image-3-icon {
+    position: absolute;
+    top: 215px;
+    left: 37px;
+    border-radius: 30px;
+    width: 179px;
+    height: 179px;
+    object-fit: cover;
+}
+.image-6 {
+    position: absolute;
+    top: 479px;
+    left: 37px;
+    box-shadow: 0px 3px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    background-color: #fff;
+    width: 179px;
+    height: 173px;
+}
+.image-4-icon {
+    position: absolute;
+    top: 487px;
+    left: 47px;
+    border-radius: 30px;
+    width: 159px;
+    height: 107px;
+    object-fit: cover;
+}
+.image-icon2 {
+    position: absolute;
+    top: 488px;
+    left: 233px;
+    border-radius: 10px;
+    width: 59px;
+    height: 61px;
+    object-fit: cover;
+}
+.image-5 {
+    position: absolute;
+    top: 539px;
+    left: 47px;
+    border-radius: 0px 0px 30px 30px;
+    background: linear-gradient(180deg, rgba(51, 69, 141, 0.1) 26.5%, #011150);
+    width: 159px;
+    height: 55px;
+}
+.make-a-wish {
+    position: absolute;
+    top: 339px;
+    left: 238px;
+    font-size: 11px;
+    display: inline-block;
+    font-family: 'Arsenal SC';
+    color: rgba(0, 0, 0, 0.77);
+    width: 35px;
+}
+.happy-birthday-blessing {
+    position: absolute;
+    top: 162px;
+    left: calc(50% - 80px);
+    font-weight: 600;
+    font-family: Aptos;
+}
+.special-message-to {
+    position: absolute;
+    top: 444px;
+    left: calc(50% - 79px);
+    font-weight: 600;
+}
+.who-you-are {
+    position: absolute;
+    top: 609px;
+    left: calc(50% - 125px);
+    font-size: 13px;
+    font-weight: 600;
+}
+.check-your-traits {
+    position: absolute;
+    top: 501px;
+    left: 299px;
+    font-size: 10px;
+    font-weight: 600;
+    display: inline-block;
+    width: 39px;
+}
+.birthday-prayer {
+    position: absolute;
+    top: 584px;
+    left: 229px;
+    font-size: 10px;
+    display: inline-block;
+    color: rgba(0, 0, 0, 0.7);
+    width: 60px;
+}
+.iphone-13-14-1 {
+    width: 100%;
+    position: relative;
+    background: linear-gradient(180deg, #fff 20%, #ffebef 55.5%, #ffc0cb);
+    height: 844px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 15px;
+    color: #000;
+    font-family: Urbanist;
+}
+
+.btn {
+    position: absolute;
+    left: 74px; bottom: 462px;
+    width: 106px;
+    height: 29px;
+    flex-shrink: 0;
+    border-radius: 30px;
+    border: 1px solid #818181;
+    background: rgba(62, 62, 62, 0.70);
+    backdrop-filter: blur(2px);
+    color: white;
+    font-family: Bad Script;
+}

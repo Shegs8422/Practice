@@ -231,7 +231,7 @@ body {
     width: 100%;
     position: relative;
     background: linear-gradient(180deg, #fff 20%, #ffebef 55.5%, #ffc0cb);
-    height: 844px;
+    height: auto;
     overflow: hidden;
     text-align: center;
     font-size: 15px;
